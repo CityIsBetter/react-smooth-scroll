@@ -6,8 +6,7 @@ Smooth Manual Scrolling: Enhances the scrolling experience for mouse wheel, touc
 Smooth Programmatic Scrolling: Scroll to specific sections of the page using navigation buttons.
 Customizable Easing and Duration: Fine-tuned settings for fluid scroll stops.
 Demo
-Check out the live demo: Smooth Scroll Demo
-(Update with a deployed link if available)
+Check out the live demo: [Smooth Scroll Demo](https://genuine-biscotti-f72e85.netlify.app/)
 
 # Installation
 Clone the Repository
